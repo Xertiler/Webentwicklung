@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b650d309-56da-4ecd-94e3-0c76da06818d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1k6tAMtlr5NbKu9K1yDuiMak9ni" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Todos.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/Todos.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Todos.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b650d309-56da-4ecd-94e3-0c76da06818d" name="Default Changelist" comment="" />
+      <created>1605032724843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605032724843</updated>
+      <workItem from="1605032725869" duration="478000" />
+      <workItem from="1605078380765" duration="5952000" />
+      <workItem from="1606765967346" duration="30272000" />
+      <workItem from="1606827877477" duration="611000" />
+      <workItem from="1606894047838" duration="2199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="809" y="164" key="#Deployment" timestamp="1605089771376">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="809" y="164" key="#Deployment/0.0.2560.1400@0.0.2560.1400" timestamp="1605089771376" />
+    <state x="856" y="345" key="#SSH_Configurations" timestamp="1605079332707">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="856" y="345" key="#SSH_Configurations/0.0.2560.1400@0.0.2560.1400" timestamp="1605079332707" />
+    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1605087376821">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1605087376821" />
+    <state x="1141" y="598" key="Github.ShareDialog" timestamp="1605087419476">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1141" y="598" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605087419476" />
+    <state x="1114" y="623" key="NewPhpFileDialog" timestamp="1605032732630">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1114" y="623" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605032732630" />
+    <state x="781" y="345" key="SettingsEditor" timestamp="1606787445639">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1606787445639" />
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605087404273">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605087404273" />
+    <state x="1110" y="491" key="svn.repositoryBrowser" timestamp="1605087386851">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1110" y="491" key="svn.repositoryBrowser/0.0.2560.1400@0.0.2560.1400" timestamp="1605087386851" />
+  </component>
+</project>

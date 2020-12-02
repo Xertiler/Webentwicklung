@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://unpkg.com/bootstrap@4.5.3/dist/css/bootstrap.min.css"/>>
+    <script src="https://kit.fontawesome.com/9678e46865.js" crossorigin="anonymous"></script>
+    <title>Personen</title>
+</head>
+<body>
+<div class="container-fluid">
+    <div class="jumbotron">
+        <div>
+            <h1 class="display-4" style="padding-left:27.5%">Aufgabenplaner: Personen</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <ul class="list-group">
+                <li class="list-group-item"><a class="nav-link"  href="#">Login</a></li>
+                <li class="list-group-item"><a class="nav-link"  href="#">Projekte</a></li>
+                <li class="list-group-item"><a class="nav-link"  href="#">Aktuelles Projekt</a></li>
+                <ul>
+                    <li class="list-group-item"><a class="nav-link"  href="#">Reiter</a></li>
+                    <li class="list-group-item"><a class="nav-link"  href="#">Aufgaben</a></li>
+                    <li class="list-group-item"><a class="nav-link"  href="#">Mitarbeiter</a></li>
+                </ul>
+            </ul>
+        </div>
+        <div class="col-md-7">
+            <table class="table">
+                <thead>
+                    <tr class="table-active">
+                        <th scope="col">Name:</th>
+                        <th scope="col">E-Mail:</th>
+                        <th scope="col">In Projekt:</th>
+                        <th width="2%"></th>
+                        <th width="2%"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td scope="row">Max Mustermann</td>
+                        <td>mustermann@muster.de</td>
+                        <td>
+                            <div class="form-group form-check"  width="50%">
+                                <input type="checkbox" class="form-check-input" id="inProj">
+                                <label class="form-check-label" for="inProj" width="50%"></label>
+                            </div>
+                        </td>
+                        <td> <i class="far fa-edit" style="color:#3498DB"></i></td>
+                        <td><i class="far fa-trash-alt" style="color:#3498DB"></i></td>
+                    </tr>
+                    <tr>
+                        <td scope="row">Petra Müller</td>
+                        <td>petra@mueller.de</td>
+                        <td>
+                            <div class="form-group form-check">
+                                <input type="checkbox" class="form-check-input" id="inProj2">
+                                <label class="form-check-label" for="inProj2"></label>
+                            </div>
+                        </td>
+                        <td> <i class="far fa-edit" style="color:#3498DB"></i></td>
+                        <td><i class="far fa-trash-alt" style="color:#3498DB"></i></td>
+                    </tr>
+                </tbody>
+            </table>
+            <h3>Bearbeiten/erstellen:</h3>
+            <div class="form-group">
+                <label for="Username">Username:</label>
+                <input type="text" class="form-control" id="Username" placeholder="Username">
+            </div>
+            <div class="form-group">
+                <label for="E-Mail-Adresse">E-Mail-Adresse:</label>
+                <input type="email" class="form-control" id="E-Mail-Adresse" placeholder="E-Mail-Adresse eingeben">
+            </div>
+            <div class="form-group">
+                <label for="Passwort">Passwort:</label>
+                <input type="password" class="form-control" id="Passwort" placeholder="Passwort">
+            </div>
+            <div class="form-group form-check">
+                <input type="checkbox" class="form-check-input" id="Proj">
+                <label class="form-check-label" for="Proj">Dem Projekt zugeordnet</label>
+            </div>
+            <div>
+                <a class="btn btn-primary" href="#" role="button">Speichern</a>
+                <button type="button" class="btn btn-info">Reset</button>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
