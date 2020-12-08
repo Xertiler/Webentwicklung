@@ -7,7 +7,12 @@
   <component name="ChangeListManager">
     <list default="true" id="b650d309-56da-4ecd-94e3-0c76da06818d" name="Default Changelist" comment="Final test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgaben.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekte.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reiter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Todos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +39,9 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1k6tAMtlr5NbKu9K1yDuiMak9ni" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,12 +54,16 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.header.php">
     <configuration name="Todos.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/Todos.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="header.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/header.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.header.php" />
         <item itemvalue="JavaScript Debug.Todos.html" />
       </list>
     </recent_temporary>
@@ -75,7 +86,7 @@
       <workItem from="1606894047838" duration="3907000" />
       <workItem from="1606920002432" duration="18000" />
       <workItem from="1607363677542" duration="4835000" />
-      <workItem from="1607412322099" duration="7031000" />
+      <workItem from="1607412322099" duration="32153000" />
     </task>
     <task id="LOCAL-00001" summary="Blatt2">
       <created>1606896501245</created>
@@ -133,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607419432866</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Final test">
+      <created>1607420194254</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607420194254</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +219,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="856" y="345" key="#SSH_Configurations/0.0.2560.1400@0.0.2560.1400" timestamp="1605079332707" />
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607449410109">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1607449410109" />
     <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1607418191318">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -209,10 +231,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="958" y="617" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1607418300752" />
-    <state x="1114" y="623" key="NewPhpFileDialog" timestamp="1605032732630">
+    <state x="1056" y="423" key="NewPhpClassDialog" timestamp="1607442968905">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1114" y="623" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605032732630" />
+    <state x="1056" y="423" key="NewPhpClassDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1607442968905" />
+    <state x="1114" y="623" key="NewPhpFileDialog" timestamp="1607449180291">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1114" y="623" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1607449180291" />
     <state x="781" y="345" key="SettingsEditor" timestamp="1607418471125">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -225,6 +251,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1607416448504" />
+    <state x="329" y="121" width="1829" height="1387" key="dock-window-1" timestamp="1607448741376">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="329" y="121" width="1829" height="1387" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1607448741376" />
+    <state x="0" y="0" width="1829" height="1387" key="dock-window-2" timestamp="1607448741376">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="0" y="0" width="1829" height="1387" key="dock-window-2/0.0.2560.1400@0.0.2560.1400" timestamp="1607448741376" />
     <state x="1110" y="491" key="svn.repositoryBrowser" timestamp="1605087386851">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
