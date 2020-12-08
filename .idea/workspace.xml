@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b650d309-56da-4ecd-94e3-0c76da06818d" name="Default Changelist" comment="" />
+    <list default="true" id="b650d309-56da-4ecd-94e3-0c76da06818d" name="Default Changelist" comment="testasdasdasdasd">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -24,6 +34,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1k6tAMtlr5NbKu9K1yDuiMak9ni" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -47,6 +58,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Kilian Moll\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b650d309-56da-4ecd-94e3-0c76da06818d" name="Default Changelist" comment="" />
@@ -58,42 +72,156 @@
       <workItem from="1605078380765" duration="5952000" />
       <workItem from="1606765967346" duration="30272000" />
       <workItem from="1606827877477" duration="611000" />
-      <workItem from="1606894047838" duration="2199000" />
+      <workItem from="1606894047838" duration="3907000" />
+      <workItem from="1606920002432" duration="18000" />
+      <workItem from="1607363677542" duration="4835000" />
+      <workItem from="1607412322099" duration="6332000" />
     </task>
+    <task id="LOCAL-00001" summary="Blatt2">
+      <created>1606896501245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606896501245</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1607416021342</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607416021342</updated>
+    </task>
+    <task id="LOCAL-00003" summary="testasdasdasdasd">
+      <created>1607416800567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607416800567</updated>
+    </task>
+    <task id="LOCAL-00004" summary="testasdasdasdasd">
+      <created>1607418218051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607418218051</updated>
+    </task>
+    <task id="LOCAL-00005" summary="testasdasdasdasd">
+      <created>1607418262118</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607418262118</updated>
+    </task>
+    <task id="LOCAL-00006" summary="testasdasdasdasd">
+      <created>1607418674823</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607418674823</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Blatt2" />
+    <MESSAGE value="test" />
+    <MESSAGE value="testasdasdasdasd" />
+    <option name="LAST_COMMIT_MESSAGE" value="testasdasdasdasd" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="809" y="164" key="#Deployment" timestamp="1605089771376">
+    <state x="809" y="164" key="#Deployment" timestamp="1607415981125">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="809" y="164" key="#Deployment/0.0.2560.1400@0.0.2560.1400" timestamp="1605089771376" />
+    <state x="809" y="164" key="#Deployment/0.0.2560.1400@0.0.2560.1400" timestamp="1607415981125" />
+    <state x="1034" y="524" key="#Notifications" timestamp="1607416552703">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1034" y="524" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1607416552703" />
     <state x="856" y="345" key="#SSH_Configurations" timestamp="1605079332707">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="856" y="345" key="#SSH_Configurations/0.0.2560.1400@0.0.2560.1400" timestamp="1605079332707" />
-    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1605087376821">
+    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1607418191318">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1605087376821" />
-    <state x="1141" y="598" key="Github.ShareDialog" timestamp="1605087419476">
+    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1607418191318" />
+    <state x="958" y="617" key="Github.ShareDialog" timestamp="1607418300752">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1141" y="598" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605087419476" />
+    <state x="958" y="617" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1607418300752" />
     <state x="1114" y="623" key="NewPhpFileDialog" timestamp="1605032732630">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1114" y="623" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605032732630" />
-    <state x="781" y="345" key="SettingsEditor" timestamp="1606787445639">
+    <state x="781" y="345" key="SettingsEditor" timestamp="1607418471125">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1606787445639" />
-    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605087404273">
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1607418471125" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607418697872">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605087404273" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1607418697872" />
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1607416448504">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1607416448504" />
     <state x="1110" y="491" key="svn.repositoryBrowser" timestamp="1605087386851">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

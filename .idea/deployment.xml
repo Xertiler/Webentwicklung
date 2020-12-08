@@ -12,7 +12,7 @@
       <paths name="Webentwicklung-prod">
         <serverdata>
           <mappings>
-            <mapping deploy="/Webentwicklung-prod" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/public_html" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
