@@ -7,6 +7,16 @@
   <component name="ChangeListManager">
     <list default="true" id="b650d309-56da-4ecd-94e3-0c76da06818d" name="Default Changelist" comment="PhP Transformation Final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgaben.php" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personen.php" beforeDir="false" afterPath="$PROJECT_DIR$/Personen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekte.php" beforeDir="false" afterPath="$PROJECT_DIR$/Projekte.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reiter.php" beforeDir="false" afterPath="$PROJECT_DIR$/Reiter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Todos.php" beforeDir="false" afterPath="$PROJECT_DIR$/Todos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/navigation.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="PHP Script.header.php">
@@ -80,7 +90,9 @@
       <workItem from="1606894047838" duration="3907000" />
       <workItem from="1606920002432" duration="18000" />
       <workItem from="1607363677542" duration="4835000" />
-      <workItem from="1607412322099" duration="33754000" />
+      <workItem from="1607412322099" duration="34281000" />
+      <workItem from="1607465158139" duration="3184000" />
+      <workItem from="1607495783565" duration="987000" />
     </task>
     <task id="LOCAL-00001" summary="Blatt2">
       <created>1606896501245</created>
@@ -152,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607454327305</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="PhP Transformation Final">
+      <created>1607456230617</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607456230617</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,14 +260,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1114" y="623" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1607449180291" />
-    <state x="781" y="345" key="SettingsEditor" timestamp="1607418471125">
+    <state x="781" y="345" key="SettingsEditor" timestamp="1607456293438">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1607418471125" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607418697872">
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1607456293438" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607456241004">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1607418697872" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1607456241004" />
     <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1607416448504">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

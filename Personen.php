@@ -15,7 +15,6 @@ $mitarbeiter = array(
         )
 )
 ?>
-<!-- place content here -->
     <div class="col-md-7">
     <table class="table">
         <thead>
@@ -39,7 +38,7 @@ $mitarbeiter = array(
                                 <label class="form-check-label" for="inProj" width="50%"></label>
                             </div>' .'</td>');
                     echo ('<td> <i class="far fa-edit" style="color:#3498DB"></i></td>');
-                    echo ('<td><i class="far fa-trash-alt" style="color:#3498DB"></i></td>');
+                    echo ('<td><i class="far fa-trash-alt" style="color:#3498DB"></i></td></tr>');
                 }
             }
         }

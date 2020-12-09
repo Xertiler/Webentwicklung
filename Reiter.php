@@ -33,16 +33,7 @@ $reiter = array(
         </thead>
         <tbody>
         <?php
-        if(isset($reiter)){
-            foreach ($reiter as $row){
-                if(isset($row['name']) && isset($row['beschreibung'])){
-                    echo ('<tr><td scope="row">'. $row['name'] . '</td>');
-                    echo ('<td>' . $row['beschreibung'] .'</td>');
-                    echo ('<td> <i class="far fa-edit" style="color:#3498DB"></i></td>');
-                    echo ('<td><i class="far fa-trash-alt" style="color:#3498DB"></i></td>');
-                }
-            }
-        }
+        print_array($reiter);
         ?>
         </tbody>
     </table>

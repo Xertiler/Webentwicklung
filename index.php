@@ -3,7 +3,6 @@ $title_name = 'Login';
 include_once ('header.php');
 ?>
 
-<!-- place content here -->
     <div class="container">
         <div class="row">
             <div class="col">

@@ -7,14 +7,14 @@ $aufgaben  = array(
     array(
         'bezeichnung' => 'HTML Datei erstellen',
         'beschreibung' => 'HTML Datei erstellen',
-        'reiter' => 'ToDO',
+        'reiter' => 'ToDo',
         'zuständig' => 'Max Mustermann'
     ),
 
     array(
         'bezeichnung' => 'CSS Datei erstellen',
         'beschreibung' => 'CSS Datei erstellen',
-        'reiter' => 'ToDO',
+        'reiter' => 'ToDo',
         'zuständig' => 'Max Mustermann'
     ),
 
@@ -34,17 +34,15 @@ $aufgaben  = array(
 
     array(
         'bezeichnung' => 'Für die Uni lernen',
-        'beschreibung' => 'ür die Uni lernen.',
+        'beschreibung' => 'Für die Uni lernen.',
         'reiter' => 'Verschoben',
         'zuständig' => 'Max Mustermann'
     )
 )
 ?>
-    <!-- place content here -->
     <div class="col-md-7">
     <table class="table">
         <thead>
-        <!-- -->
         <tr class="table-active">
             <th scope="col" width="20%">Aufgabenbezeichnung:</th>
             <th scope="col">Beschreibung der Aufgabe:</th>
@@ -57,18 +55,7 @@ $aufgaben  = array(
         <tbody>
         <!-- table gets printed with a loop here-->
         <?php
-        if(isset($aufgaben)){
-            foreach ($aufgaben as $row){
-                if(isset($row['bezeichnung']) && isset($row['beschreibung']) && isset($row['reiter']) && isset($row['zuständig'])){
-                    echo ('<tr><td scope="row">'. $row['bezeichnung'] . '</td>');
-                    echo ('<td>' . $row['beschreibung'] .'</td>');
-                    echo ('<td>' . $row['reiter'] .'</td>');
-                    echo ('<td>' . $row['zuständig'] .'</td>');
-                    echo ('<td> <i class="far fa-edit" style="color:#3498DB"></i></td>');
-                    echo ('<td><i class="far fa-trash-alt" style="color:#3498DB"></i></td>');
-                }
-            }
-        }
+        print_array($aufgaben);
         ?>
         <!-- -->
         </tbody>
